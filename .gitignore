@@ -1,0 +1,13 @@
+#Ambiente virtual
+.venv/
+
+#chaches de API e tokens de acesso
+.env
+.cache
+
+#midia
+automacao/audios_recortados
+
+#temps
+__pycache__/
+*.pyc
