@@ -1,0 +1,1731 @@
+[
+    {
+        "id": 1,
+        "artista": "Djavan",
+        "titulo": "Se...",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/djavan_se.ogg"
+    },
+    {
+        "id": 2,
+        "artista": "Os Paralamas Do Sucesso",
+        "titulo": "Uma Brasileira",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/os_paralamas_do_sucesso_uma_brasileira.ogg"
+    },
+    {
+        "id": 3,
+        "artista": "Djavan",
+        "titulo": "Eu Te Devoro",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/djavan_eu_te_devoro.ogg"
+    },
+    {
+        "id": 4,
+        "artista": "Caetano Veloso",
+        "titulo": "Você Não Me Ensinou a Te Esquecer",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/caetano_veloso_você_não_me_ensinou_a_te_esquecer.ogg"
+    },
+    {
+        "id": 5,
+        "artista": "Caetano Veloso",
+        "titulo": "Sozinho",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/caetano_veloso_sozinho.ogg"
+    },
+    {
+        "id": 6,
+        "artista": "Luiz Gonzaga",
+        "titulo": "O Xote das Meninas - Ela Só Quer Só Pensa em Namorar",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/luiz_gonzaga_o_xote_das_meninas_ela_só_quer_só_pensa_em_namorar.ogg"
+    },
+    {
+        "id": 7,
+        "artista": "Luiz Gonzaga",
+        "titulo": "A Vida do Viajante (feat. Gonzaguinha)",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/luiz_gonzaga_a_vida_do_viajante_feat_gonzaguinha.ogg"
+    },
+    {
+        "id": 8,
+        "artista": "Zé Ramalho",
+        "titulo": "Chão de Giz",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/zé_ramalho_chão_de_giz.ogg"
+    },
+    {
+        "id": 9,
+        "artista": "Chitãozinho & Xororó",
+        "titulo": "Sinônimos",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/chitãozinho_xororó_sinônimos.ogg"
+    },
+    {
+        "id": 10,
+        "artista": "Elba Ramalho",
+        "titulo": "Ai Que Saudade D'Ocê",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/elba_ramalho_ai_que_saudade_docê.ogg"
+    },
+    {
+        "id": 11,
+        "artista": "Zé Ramalho",
+        "titulo": "Entre a Serpente e a Estrela (Amarillo By Money)",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/zé_ramalho_entre_a_serpente_e_a_estrela_amarillo_by_money.ogg"
+    },
+    {
+        "id": 12,
+        "artista": "Nelson Gonçalves",
+        "titulo": "Naquela Mesa",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/nelson_gonçalves_naquela_mesa.ogg"
+    },
+    {
+        "id": 13,
+        "artista": "Alceu Valença",
+        "titulo": "Anunciação",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/alceu_valença_anunciação.ogg"
+    },
+    {
+        "id": 14,
+        "artista": "Alceu Valença",
+        "titulo": "La Belle De Jour",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/alceu_valença_la_belle_de_jour.ogg"
+    },
+    {
+        "id": 15,
+        "artista": "Alceu Valença",
+        "titulo": "La Belle de Jour / Girassol",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/alceu_valença_la_belle_de_jour_girassol.ogg"
+    },
+    {
+        "id": 16,
+        "artista": "Tim Maia",
+        "titulo": "Azul Da Cor Do Mar",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/tim_maia_azul_da_cor_do_mar.ogg"
+    },
+    {
+        "id": 17,
+        "artista": "Tim Maia",
+        "titulo": "Gostava Tanto De Você",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/tim_maia_gostava_tanto_de_você.ogg"
+    },
+    {
+        "id": 18,
+        "artista": "Tim Maia",
+        "titulo": "Eu Amo Você",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/tim_maia_eu_amo_você.ogg"
+    },
+    {
+        "id": 19,
+        "artista": "Alcione",
+        "titulo": "Você Me Vira A Cabeça (Me Tira Do Sério)",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/alcione_você_me_vira_a_cabeça_me_tira_do_sério.ogg"
+    },
+    {
+        "id": 20,
+        "artista": "Cartola",
+        "titulo": "Preciso Me Encontrar",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/cartola_preciso_me_encontrar.ogg"
+    },
+    {
+        "id": 21,
+        "artista": "Gonzaguinha",
+        "titulo": "O Que É O Que É?",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/gonzaguinha_o_que_é_o_que_é.ogg"
+    },
+    {
+        "id": 22,
+        "artista": "Rita Lee",
+        "titulo": "Ovelha Negra",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/rita_lee_ovelha_negra.ogg"
+    },
+    {
+        "id": 23,
+        "artista": "Rita Lee",
+        "titulo": "Mania De Você",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/rita_lee_mania_de_você.ogg"
+    },
+    {
+        "id": 24,
+        "artista": "João Gilberto",
+        "titulo": "Chega de Saudade",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/joão_gilberto_chega_de_saudade.ogg"
+    },
+    {
+        "id": 25,
+        "artista": "Antonio Villeroy",
+        "titulo": "Sinais de Fogo",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/antonio_villeroy_sinais_de_fogo.ogg"
+    },
+    {
+        "id": 26,
+        "artista": "Seu Jorge",
+        "titulo": "Carolina",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/seu_jorge_carolina.ogg"
+    },
+    {
+        "id": 27,
+        "artista": "Arnaldo Antunes",
+        "titulo": "Qualquer Coisa",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/arnaldo_antunes_qualquer_coisa.ogg"
+    },
+    {
+        "id": 28,
+        "artista": "Dudu Nobre",
+        "titulo": "Faz O Pagode Explodir",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/dudu_nobre_faz_o_pagode_explodir.ogg"
+    },
+    {
+        "id": 29,
+        "artista": "Os Paralamas Do Sucesso",
+        "titulo": "Me Liga",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/os_paralamas_do_sucesso_me_liga.ogg"
+    },
+    {
+        "id": 30,
+        "artista": "Titãs",
+        "titulo": "Epitáfio",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/titãs_epitáfio.ogg"
+    },
+    {
+        "id": 31,
+        "artista": "Cássia Eller",
+        "titulo": "O Meu Mundo Ficaria Completo (Com Você)",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/cássia_eller_o_meu_mundo_ficaria_completo_com_você.ogg"
+    },
+    {
+        "id": 32,
+        "artista": "Natiruts",
+        "titulo": "Quero Ser Feliz Também",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/natiruts_quero_ser_feliz_também.ogg"
+    },
+    {
+        "id": 33,
+        "artista": "Titãs",
+        "titulo": "Pra Dizer Adeus",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/titãs_pra_dizer_adeus.ogg"
+    },
+    {
+        "id": 34,
+        "artista": "Titãs",
+        "titulo": "Enquanto Houver Sol",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/titãs_enquanto_houver_sol.ogg"
+    },
+    {
+        "id": 35,
+        "artista": "Titãs",
+        "titulo": "Os Cegos do Castelo",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/titãs_os_cegos_do_castelo.ogg"
+    },
+    {
+        "id": 36,
+        "artista": "Seu Jorge",
+        "titulo": "Amiga Da Minha Mulher",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/seu_jorge_amiga_da_minha_mulher.ogg"
+    },
+    {
+        "id": 37,
+        "artista": "Seu Jorge",
+        "titulo": "Burguesinha",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/seu_jorge_burguesinha.ogg"
+    },
+    {
+        "id": 38,
+        "artista": "Seu Jorge",
+        "titulo": "Quem Não Quer Sou Eu",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/seu_jorge_quem_não_quer_sou_eu.ogg"
+    },
+    {
+        "id": 39,
+        "artista": "Geraldo Vandre",
+        "titulo": "Pra não dizer que não falei das flores",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/geraldo_vandre_pra_não_dizer_que_não_falei_das_flores.ogg"
+    },
+    {
+        "id": 40,
+        "artista": "Ritchie",
+        "titulo": "Menina Veneno",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/ritchie_menina_veneno.ogg"
+    },
+    {
+        "id": 41,
+        "artista": "Roupa Nova",
+        "titulo": "Dona",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/roupa_nova_dona.ogg"
+    },
+    {
+        "id": 42,
+        "artista": "Roupa Nova",
+        "titulo": "Whisky a Go-Go",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/roupa_nova_whisky_a_go_go.ogg"
+    },
+    {
+        "id": 43,
+        "artista": "Nenhum De Nós",
+        "titulo": "O Astronauta de Mármore (Starman)",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/nenhum_de_nós_o_astronauta_de_mármore_starman.ogg"
+    },
+    {
+        "id": 44,
+        "artista": "Belo",
+        "titulo": "Tua Boca",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/belo_tua_boca.ogg"
+    },
+    {
+        "id": 45,
+        "artista": "Papas Da Língua",
+        "titulo": "Eu Sei",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/papas_da_língua_eu_sei.ogg"
+    },
+    {
+        "id": 46,
+        "artista": "Roberto Carlos",
+        "titulo": "Esse Cara Sou Eu",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/roberto_carlos_esse_cara_sou_eu.ogg"
+    },
+    {
+        "id": 47,
+        "artista": "Naldo Benny",
+        "titulo": "Amor de Chocolate",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/naldo_benny_amor_de_chocolate.ogg"
+    },
+    {
+        "id": 48,
+        "artista": "Fagner",
+        "titulo": "Borbulhas de Amor (Tenho um Coração) [Borbujas de Amor]",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/fagner_borbulhas_de_amor_tenho_um_coração_borbujas_de_amor.ogg"
+    },
+    {
+        "id": 49,
+        "artista": "Cazuza",
+        "titulo": "Exagerado",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/cazuza_exagerado.ogg"
+    },
+    {
+        "id": 50,
+        "artista": "Rita Lee",
+        "titulo": "Reza",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/rita_lee_reza.ogg"
+    },
+    {
+        "id": 51,
+        "artista": "Blitz",
+        "titulo": "A Dois Passos Do Paraíso",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/blitz_a_dois_passos_do_paraíso.ogg"
+    },
+    {
+        "id": 52,
+        "artista": "Belchior",
+        "titulo": "A Palo Seco",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/belchior_a_palo_seco.ogg"
+    },
+    {
+        "id": 53,
+        "artista": "Belchior",
+        "titulo": "Apenas Um Rapaz Latino Americano",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/belchior_apenas_um_rapaz_latino_americano.ogg"
+    },
+    {
+        "id": 54,
+        "artista": "Reginaldo Rossi",
+        "titulo": "Em Plena Lua De Mel (Dina)",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/reginaldo_rossi_em_plena_lua_de_mel_dina.ogg"
+    },
+    {
+        "id": 55,
+        "artista": "Marquinhos Maraial",
+        "titulo": "O Encanto - Cristal Quebrado",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/marquinhos_maraial_o_encanto_cristal_quebrado.ogg"
+    },
+    {
+        "id": 56,
+        "artista": "Reginaldo Rossi",
+        "titulo": "A Raposa e as Uvas",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/reginaldo_rossi_a_raposa_e_as_uvas.ogg"
+    },
+    {
+        "id": 57,
+        "artista": "Reginaldo Rossi",
+        "titulo": "Garçon",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/reginaldo_rossi_garçon.ogg"
+    },
+    {
+        "id": 58,
+        "artista": "Roberta Miranda",
+        "titulo": "Amanhã (Mañana)",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/roberta_miranda_amanhã_mañana.ogg"
+    },
+    {
+        "id": 59,
+        "artista": "Cazuza",
+        "titulo": "Codinome Beija-Flor",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/cazuza_codinome_beija_flor.ogg"
+    },
+    {
+        "id": 60,
+        "artista": "Victor & Leo",
+        "titulo": "Borboletas",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/victor_leo_borboletas.ogg"
+    },
+    {
+        "id": 61,
+        "artista": "Fernando & Sorocaba",
+        "titulo": "As Mina Pira",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/fernando_sorocaba_as_mina_pira.ogg"
+    },
+    {
+        "id": 62,
+        "artista": "Fernando & Sorocaba",
+        "titulo": "Bala de Prata",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/fernando_sorocaba_bala_de_prata.ogg"
+    },
+    {
+        "id": 63,
+        "artista": "Trio Bravana",
+        "titulo": "Mãe Tô na Balada",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/trio_bravana_mãe_tô_na_balada.ogg"
+    },
+    {
+        "id": 64,
+        "artista": "Munhoz & Mariano",
+        "titulo": "Copo Na Mão",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/munhoz_mariano_copo_na_mão.ogg"
+    },
+    {
+        "id": 65,
+        "artista": "Thaeme & Thiago",
+        "titulo": "Tchá Tchá Tchá",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/thaeme_thiago_tchá_tchá_tchá.ogg"
+    },
+    {
+        "id": 66,
+        "artista": "Bruno & Marrone",
+        "titulo": "Vou Te Amarrar na Minha Cama",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/bruno_marrone_vou_te_amarrar_na_minha_cama.ogg"
+    },
+    {
+        "id": 67,
+        "artista": "Victor & Leo",
+        "titulo": "Muito Natural",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/victor_leo_muito_natural.ogg"
+    },
+    {
+        "id": 68,
+        "artista": "Victor & Leo",
+        "titulo": "Não Precisa",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/victor_leo_não_precisa.ogg"
+    },
+    {
+        "id": 69,
+        "artista": "Victor & Leo",
+        "titulo": "Vida Boa",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/victor_leo_vida_boa.ogg"
+    },
+    {
+        "id": 70,
+        "artista": "Victor & Leo",
+        "titulo": "O Granfino e o Caipira",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/victor_leo_o_granfino_e_o_caipira.ogg"
+    },
+    {
+        "id": 71,
+        "artista": "Victor & Leo",
+        "titulo": "Tem Que Ser Você",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/victor_leo_tem_que_ser_você.ogg"
+    },
+    {
+        "id": 72,
+        "artista": "Victor & Leo",
+        "titulo": "Solidão a Dois",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/victor_leo_solidão_a_dois.ogg"
+    },
+    {
+        "id": 73,
+        "artista": "Michel Teló",
+        "titulo": "Humilde Residência - Remix",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/michel_teló_humilde_residência_remix.ogg"
+    },
+    {
+        "id": 74,
+        "artista": "Munhoz & Mariano",
+        "titulo": "Camaro Amarelo",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/munhoz_mariano_camaro_amarelo.ogg"
+    },
+    {
+        "id": 75,
+        "artista": "Jorge & Mateus",
+        "titulo": "Pense Em Mim - Jorge & Mateus Elétrico",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/jorge_mateus_pense_em_mim_jorge_mateus_elétrico.ogg"
+    },
+    {
+        "id": 76,
+        "artista": "Marcos & Belutti",
+        "titulo": "Domingo de Manhã",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/marcos_belutti_domingo_de_manhã.ogg"
+    },
+    {
+        "id": 77,
+        "artista": "Guilherme & Santiago",
+        "titulo": "E Daí",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/guilherme_santiago_e_daí.ogg"
+    },
+    {
+        "id": 78,
+        "artista": "Jorge & Mateus",
+        "titulo": "Pode Chorar - Jorge & Mateus Elétrico",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/jorge_mateus_pode_chorar_jorge_mateus_elétrico.ogg"
+    },
+    {
+        "id": 79,
+        "artista": "João Bosco & Vinícius",
+        "titulo": "Chora, Me Liga",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/joão_bosco_vinícius_chora_me_liga.ogg"
+    },
+    {
+        "id": 80,
+        "artista": "Munhoz & Mariano",
+        "titulo": "Balada Louca",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/munhoz_mariano_balada_louca.ogg"
+    },
+    {
+        "id": 81,
+        "artista": "Chitãozinho & Xororó",
+        "titulo": "Evidências",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/chitãozinho_xororó_evidências.ogg"
+    },
+    {
+        "id": 82,
+        "artista": "Jorge & Mateus",
+        "titulo": "O Mundo É Tão Pequeno",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/jorge_mateus_o_mundo_é_tão_pequeno.ogg"
+    },
+    {
+        "id": 83,
+        "artista": "Jorge & Mateus",
+        "titulo": "Seu Astral",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/jorge_mateus_seu_astral.ogg"
+    },
+    {
+        "id": 84,
+        "artista": "Bruno & Denner",
+        "titulo": "Cavalo de Pau",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/bruno_denner_cavalo_de_pau.ogg"
+    },
+    {
+        "id": 85,
+        "artista": "Hugo & Guilherme",
+        "titulo": "Mágica",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/hugo_guilherme_mágica.ogg"
+    },
+    {
+        "id": 86,
+        "artista": "Luan Santana",
+        "titulo": "MEIO TERMO",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/luan_santana_meio_termo.ogg"
+    },
+    {
+        "id": 87,
+        "artista": "Simone Mendes",
+        "titulo": "Erro Gostoso",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/simone_mendes_erro_gostoso.ogg"
+    },
+    {
+        "id": 88,
+        "artista": "Lauana Prado",
+        "titulo": "Beijo Fuleiro",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/lauana_prado_beijo_fuleiro.ogg"
+    },
+    {
+        "id": 89,
+        "artista": "Marília Mendonça",
+        "titulo": "Leão",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/marília_mendonça_leão.ogg"
+    },
+    {
+        "id": 90,
+        "artista": "AgroPlay",
+        "titulo": "Nosso Quadro",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/agroplay_nosso_quadro.ogg"
+    },
+    {
+        "id": 91,
+        "artista": "Henrique & Juliano",
+        "titulo": "Te Esqueci Sem Querer",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/henrique_juliano_te_esqueci_sem_querer.ogg"
+    },
+    {
+        "id": 92,
+        "artista": "Jorge & Mateus",
+        "titulo": "5 Regras",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/jorge_mateus_5_regras.ogg"
+    },
+    {
+        "id": 93,
+        "artista": "Matheus & Kauan",
+        "titulo": "Basiquinho",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/matheus_kauan_basiquinho.ogg"
+    },
+    {
+        "id": 94,
+        "artista": "Felipe e Rodrigo",
+        "titulo": "Média Boa",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/felipe_e_rodrigo_média_boa.ogg"
+    },
+    {
+        "id": 95,
+        "artista": "Ana Castela",
+        "titulo": "DONA DE MIM",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/ana_castela_dona_de_mim.ogg"
+    },
+    {
+        "id": 96,
+        "artista": "Matheus & Kauan",
+        "titulo": "Pactos",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/matheus_kauan_pactos.ogg"
+    },
+    {
+        "id": 97,
+        "artista": "Gustavo Mioto",
+        "titulo": "Quando Apaga A Luz",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/gustavo_mioto_quando_apaga_a_luz.ogg"
+    },
+    {
+        "id": 98,
+        "artista": "Diego & Victor Hugo",
+        "titulo": "Pirulito Vermelho",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/diego_victor_hugo_pirulito_vermelho.ogg"
+    },
+    {
+        "id": 99,
+        "artista": "Luiza Martins",
+        "titulo": "Cê Não Me Superou",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/luiza_martins_cê_não_me_superou.ogg"
+    },
+    {
+        "id": 100,
+        "artista": "Gustavo Mioto",
+        "titulo": "Eu Gosto Assim",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/gustavo_mioto_eu_gosto_assim.ogg"
+    },
+    {
+        "id": 101,
+        "artista": "Matheus & Kauan",
+        "titulo": "Não Vitalício",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/matheus_kauan_não_vitalício.ogg"
+    },
+    {
+        "id": 102,
+        "artista": "Guilherme & Benuto",
+        "titulo": "Esse B.O é Meu",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/guilherme_benuto_esse_bo_é_meu.ogg"
+    },
+    {
+        "id": 103,
+        "artista": "Murilo Huff",
+        "titulo": "Quem tá Pegando",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/murilo_huff_quem_tá_pegando.ogg"
+    },
+    {
+        "id": 104,
+        "artista": "Diego & Victor Hugo",
+        "titulo": "Beijo de Glicose",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/diego_victor_hugo_beijo_de_glicose.ogg"
+    },
+    {
+        "id": 105,
+        "artista": "Luan Pereira",
+        "titulo": "ELA PIROU NA DODGE RAM",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/luan_pereira_ela_pirou_na_dodge_ram.ogg"
+    },
+    {
+        "id": 106,
+        "artista": "Taylor Swift",
+        "titulo": "Long Live",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/taylor_swift_long_live.ogg"
+    },
+    {
+        "id": 107,
+        "artista": "Paula Fernandes",
+        "titulo": "Pássaro De Fogo",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/paula_fernandes_pássaro_de_fogo.ogg"
+    },
+    {
+        "id": 108,
+        "artista": "Zé Neto & Cristiano",
+        "titulo": "Pátio do Posto",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/zé_neto_cristiano_pátio_do_posto.ogg"
+    },
+    {
+        "id": 109,
+        "artista": "Zé Neto & Cristiano",
+        "titulo": "Oi Balde",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/zé_neto_cristiano_oi_balde.ogg"
+    },
+    {
+        "id": 110,
+        "artista": "Israel & Rodolffo",
+        "titulo": "Voltou Com Quem Não Voltava",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/israel_rodolffo_voltou_com_quem_não_voltava.ogg"
+    },
+    {
+        "id": 111,
+        "artista": "Israel & Rodolffo",
+        "titulo": "Batom de Cereja",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/israel_rodolffo_batom_de_cereja.ogg"
+    },
+    {
+        "id": 112,
+        "artista": "Israel & Rodolffo",
+        "titulo": "Bombonzinho",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/israel_rodolffo_bombonzinho.ogg"
+    },
+    {
+        "id": 113,
+        "artista": "Bruno & Marrone",
+        "titulo": "Boate Azul",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/bruno_marrone_boate_azul.ogg"
+    },
+    {
+        "id": 114,
+        "artista": "Luan Pereira",
+        "titulo": "MOLETOM",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/luan_pereira_moletom.ogg"
+    },
+    {
+        "id": 115,
+        "artista": "Zé Neto & Cristiano",
+        "titulo": "Ela e Ela",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/zé_neto_cristiano_ela_e_ela.ogg"
+    },
+    {
+        "id": 116,
+        "artista": "Matheus & Kauan",
+        "titulo": "A Rosa E O Beija",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/matheus_kauan_a_rosa_e_o_beija.ogg"
+    },
+    {
+        "id": 117,
+        "artista": "Jorge & Mateus",
+        "titulo": "Logo Eu",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/jorge_mateus_logo_eu.ogg"
+    },
+    {
+        "id": 118,
+        "artista": "Diego & Victor Hugo",
+        "titulo": "Cêis Não Bebe Não?",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/diego_victor_hugo_cêis_não_bebe_não.ogg"
+    },
+    {
+        "id": 119,
+        "artista": "Jorge & Mateus",
+        "titulo": "O Que É Que Tem",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/jorge_mateus_o_que_é_que_tem.ogg"
+    },
+    {
+        "id": 120,
+        "artista": "Henrique & Juliano",
+        "titulo": "Até Você Voltar",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/henrique_juliano_até_você_voltar.ogg"
+    },
+    {
+        "id": 121,
+        "artista": "Jorge & Mateus",
+        "titulo": "Molhando o Volante",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/jorge_mateus_molhando_o_volante.ogg"
+    },
+    {
+        "id": 122,
+        "artista": "Lauana Prado",
+        "titulo": "Me Leva Pra Casa / Escrito Nas Estrelas / Saudade",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/lauana_prado_me_leva_pra_casa_escrito_nas_estrelas_saudade.ogg"
+    },
+    {
+        "id": 123,
+        "artista": "Lauana Prado",
+        "titulo": "Escrito Nas Estrelas",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/lauana_prado_escrito_nas_estrelas.ogg"
+    },
+    {
+        "id": 124,
+        "artista": "Gusttavo Lima",
+        "titulo": "Balada",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/gusttavo_lima_balada.ogg"
+    },
+    {
+        "id": 125,
+        "artista": "Henrique & Juliano",
+        "titulo": "Não Tô Valendo Nada",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/henrique_juliano_não_tô_valendo_nada.ogg"
+    },
+    {
+        "id": 126,
+        "artista": "Victor & Leo",
+        "titulo": "Fada",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/victor_leo_fada.ogg"
+    },
+    {
+        "id": 127,
+        "artista": "João Carreiro & Capataz",
+        "titulo": "Faculdade da Pinga",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/joão_carreiro_capataz_faculdade_da_pinga.ogg"
+    },
+    {
+        "id": 128,
+        "artista": "Vinícius de Moraes",
+        "titulo": "Carta Ao Tom 74",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/vinícius_de_moraes_carta_ao_tom_74.ogg"
+    },
+    {
+        "id": 129,
+        "artista": "Vanessa Da Mata",
+        "titulo": "Não Me Deixe Só",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/vanessa_da_mata_não_me_deixe_só.ogg"
+    },
+    {
+        "id": 130,
+        "artista": "Toquinho",
+        "titulo": "Onde Anda Você",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/toquinho_onde_anda_você.ogg"
+    },
+    {
+        "id": 131,
+        "artista": "Elis Regina",
+        "titulo": "Como Nossos Pais",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/elis_regina_como_nossos_pais.ogg"
+    },
+    {
+        "id": 132,
+        "artista": "Elis Regina",
+        "titulo": "Águas De Março",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/elis_regina_águas_de_março.ogg"
+    },
+    {
+        "id": 133,
+        "artista": "Miúcha",
+        "titulo": "Pela Luz dos Olhos Teus",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/miúcha_pela_luz_dos_olhos_teus.ogg"
+    },
+    {
+        "id": 134,
+        "artista": "Gal Costa",
+        "titulo": "Que Pena (Ele Já Não Gosta Mais De Mim)",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/gal_costa_que_pena_ele_já_não_gosta_mais_de_mim.ogg"
+    },
+    {
+        "id": 135,
+        "artista": "Elis Regina",
+        "titulo": "Tiro Ao Álvaro",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/elis_regina_tiro_ao_álvaro.ogg"
+    },
+    {
+        "id": 136,
+        "artista": "Vinícius de Moraes",
+        "titulo": "Samba Da Volta",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/vinícius_de_moraes_samba_da_volta.ogg"
+    },
+    {
+        "id": 137,
+        "artista": "Toquinho",
+        "titulo": "Regra Três",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/toquinho_regra_três.ogg"
+    },
+    {
+        "id": 138,
+        "artista": "Toquinho",
+        "titulo": "Carolina, Carol Bela",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/toquinho_carolina_carol_bela.ogg"
+    },
+    {
+        "id": 139,
+        "artista": "Jorge Ben Jor",
+        "titulo": "Chove Chuva",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/jorge_ben_jor_chove_chuva.ogg"
+    },
+    {
+        "id": 140,
+        "artista": "Chico Buarque",
+        "titulo": "Apesar De Você",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/chico_buarque_apesar_de_você.ogg"
+    },
+    {
+        "id": 141,
+        "artista": "Cartola",
+        "titulo": "O Mundo É Um Moinho",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/cartola_o_mundo_é_um_moinho.ogg"
+    },
+    {
+        "id": 142,
+        "artista": "Astrud Gilberto",
+        "titulo": "Água de Beber",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/astrud_gilberto_água_de_beber.ogg"
+    },
+    {
+        "id": 143,
+        "artista": "Elis Regina",
+        "titulo": "Só Tinha De Ser Com Você",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/elis_regina_só_tinha_de_ser_com_você.ogg"
+    },
+    {
+        "id": 144,
+        "artista": "Alceu Valença",
+        "titulo": "Flor de Tangerina",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/alceu_valença_flor_de_tangerina.ogg"
+    },
+    {
+        "id": 145,
+        "artista": "Djavan",
+        "titulo": "Flor de Lis",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/djavan_flor_de_lis.ogg"
+    },
+    {
+        "id": 146,
+        "artista": "Gilberto Gil",
+        "titulo": "Palco",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/gilberto_gil_palco.ogg"
+    },
+    {
+        "id": 147,
+        "artista": "Maria Bethânia",
+        "titulo": "Reconvexo",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/maria_bethânia_reconvexo.ogg"
+    },
+    {
+        "id": 148,
+        "artista": "Cartola",
+        "titulo": "O Sol Nascerá (A Sorrir)",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/cartola_o_sol_nascerá_a_sorrir.ogg"
+    },
+    {
+        "id": 149,
+        "artista": "Chico César",
+        "titulo": "À Primeira Vista",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/chico_césar_à_primeira_vista.ogg"
+    },
+    {
+        "id": 150,
+        "artista": "Nara Leão",
+        "titulo": "João E Maria",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/nara_leão_joão_e_maria.ogg"
+    },
+    {
+        "id": 151,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Ela Vai Voltar",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_ela_vai_voltar.ogg"
+    },
+    {
+        "id": 152,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Lugar Ao Sol",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_lugar_ao_sol.ogg"
+    },
+    {
+        "id": 153,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Papo Reto (Prazer É Sexo O Resto É Negócio)",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_papo_reto_prazer_é_sexo_o_resto_é_negócio.ogg"
+    },
+    {
+        "id": 154,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "O Côro Vai Comê",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_o_côro_vai_comê.ogg"
+    },
+    {
+        "id": 155,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Os Cortes",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_os_cortes.ogg"
+    },
+    {
+        "id": 156,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Vícios E Virtudes",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_vícios_e_virtudes.ogg"
+    },
+    {
+        "id": 157,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "O Lado Certo Da Vida Errada",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_o_lado_certo_da_vida_errada.ogg"
+    },
+    {
+        "id": 158,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Meu Novo Mundo",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_meu_novo_mundo.ogg"
+    },
+    {
+        "id": 159,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Zóio De Lula",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_zóio_de_lula.ogg"
+    },
+    {
+        "id": 160,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Só os Loucos Sabem",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_só_os_loucos_sabem.ogg"
+    },
+    {
+        "id": 161,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Festa",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_festa.ogg"
+    },
+    {
+        "id": 162,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Lutar Pelo Que E Meu",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_lutar_pelo_que_e_meu.ogg"
+    },
+    {
+        "id": 163,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Quinta",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_quinta.ogg"
+    },
+    {
+        "id": 164,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Rock Star",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_rock_star.ogg"
+    },
+    {
+        "id": 165,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Dias De Luta, Dias De Gloria",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_dias_de_luta_dias_de_gloria.ogg"
+    },
+    {
+        "id": 166,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Tamo Ai Na Atividade",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_tamo_ai_na_atividade.ogg"
+    },
+    {
+        "id": 167,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Me Encontra",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_me_encontra.ogg"
+    },
+    {
+        "id": 168,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Senhor Do Tempo",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_senhor_do_tempo.ogg"
+    },
+    {
+        "id": 169,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Não é Sério",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_não_é_sério.ogg"
+    },
+    {
+        "id": 170,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Proibida Pra Mim (Grazon)",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_proibida_pra_mim_grazon.ogg"
+    },
+    {
+        "id": 171,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Di Sk8 Eu Vou",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_di_sk8_eu_vou.ogg"
+    },
+    {
+        "id": 172,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Pra Não Dizer Que Não Falei Das Flores",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_pra_não_dizer_que_não_falei_das_flores.ogg"
+    },
+    {
+        "id": 173,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Céu Azul",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_céu_azul.ogg"
+    },
+    {
+        "id": 174,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Lixo E O Luxo",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_lixo_e_o_luxo.ogg"
+    },
+    {
+        "id": 175,
+        "artista": "O Rappa",
+        "titulo": "Minha alma (A paz que eu não quero)",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/o_rappa_minha_alma_a_paz_que_eu_não_quero.ogg"
+    },
+    {
+        "id": 176,
+        "artista": "O Rappa",
+        "titulo": "Anjos (Pra quem tem fé)",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/o_rappa_anjos_pra_quem_tem_fé.ogg"
+    },
+    {
+        "id": 177,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Quebra",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_quebra.ogg"
+    },
+    {
+        "id": 178,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Pontes Indestrutíveis",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_pontes_indestrutíveis.ogg"
+    },
+    {
+        "id": 179,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Como Tudo Deve Ser",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_como_tudo_deve_ser.ogg"
+    },
+    {
+        "id": 180,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Só Por Uma Noite",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_só_por_uma_noite.ogg"
+    },
+    {
+        "id": 181,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Dona do Meu Pensamento",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_dona_do_meu_pensamento.ogg"
+    },
+    {
+        "id": 182,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Inabalavelmente",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_inabalavelmente.ogg"
+    },
+    {
+        "id": 183,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Só Existe o Agora",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_só_existe_o_agora.ogg"
+    },
+    {
+        "id": 184,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Só Pra Vadiar",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_só_pra_vadiar.ogg"
+    },
+    {
+        "id": 185,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Puro Sangue",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_puro_sangue.ogg"
+    },
+    {
+        "id": 186,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Camisa 10 Joga Bola Até Na Chuva",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_camisa_10_joga_bola_até_na_chuva.ogg"
+    },
+    {
+        "id": 187,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Um Dia a Gente Se Encontra",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_um_dia_a_gente_se_encontra.ogg"
+    },
+    {
+        "id": 188,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Não Uso Sapato",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_não_uso_sapato.ogg"
+    },
+    {
+        "id": 189,
+        "artista": "Skank",
+        "titulo": "Acima do Sol",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/skank_acima_do_sol.ogg"
+    },
+    {
+        "id": 190,
+        "artista": "Frejat",
+        "titulo": "Amor pra recomeçar",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/frejat_amor_pra_recomeçar.ogg"
+    },
+    {
+        "id": 191,
+        "artista": "Charlie Brown Jr.",
+        "titulo": "Eu Vim De Santos Sou Charlie Brown",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/charlie_brown_jr_eu_vim_de_santos_sou_charlie_brown.ogg"
+    },
+    {
+        "id": 192,
+        "artista": "Trio Parada Dura",
+        "titulo": "Blusa Vermelha",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/trio_parada_dura_blusa_vermelha.ogg"
+    },
+    {
+        "id": 193,
+        "artista": "Tião Carreiro & Pardinho",
+        "titulo": "Tristeza do jeca",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/tião_carreiro_pardinho_tristeza_do_jeca.ogg"
+    },
+    {
+        "id": 194,
+        "artista": "Chitãozinho & Xororó",
+        "titulo": "Fogão De Lenha",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/chitãozinho_xororó_fogão_de_lenha.ogg"
+    },
+    {
+        "id": 195,
+        "artista": "Althaír & Alexandre",
+        "titulo": "Laço Aberto",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/althaír_alexandre_laço_aberto.ogg"
+    },
+    {
+        "id": 196,
+        "artista": "Milionário & José Rico",
+        "titulo": "Estrada da vida",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/milionário_josé_rico_estrada_da_vida.ogg"
+    },
+    {
+        "id": 197,
+        "artista": "Zezé Di Camargo & Luciano",
+        "titulo": "Do Outro Lado da Cidade",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/zezé_di_camargo_luciano_do_outro_lado_da_cidade.ogg"
+    },
+    {
+        "id": 198,
+        "artista": "Tião Carreiro & Pardinho",
+        "titulo": "Chora viola",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/tião_carreiro_pardinho_chora_viola.ogg"
+    },
+    {
+        "id": 199,
+        "artista": "Chitãozinho & Xororó",
+        "titulo": "Colcha De Retalhos",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/chitãozinho_xororó_colcha_de_retalhos.ogg"
+    },
+    {
+        "id": 200,
+        "artista": "Sérgio Reis",
+        "titulo": "Pinga Ne Mim",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/sérgio_reis_pinga_ne_mim.ogg"
+    },
+    {
+        "id": 201,
+        "artista": "Trio Parada Dura",
+        "titulo": "Bobeou... A Gente Pimba",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/trio_parada_dura_bobeou_a_gente_pimba.ogg"
+    },
+    {
+        "id": 202,
+        "artista": "João Paulo & Daniel",
+        "titulo": "Poeira da estrada",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/joão_paulo_daniel_poeira_da_estrada.ogg"
+    },
+    {
+        "id": 203,
+        "artista": "Sérgio Reis",
+        "titulo": "É Disso Que o Velho Gosta",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/sérgio_reis_é_disso_que_o_velho_gosta.ogg"
+    },
+    {
+        "id": 204,
+        "artista": "Joaquim e Manuel",
+        "titulo": "Som de Cristal",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/joaquim_e_manuel_som_de_cristal.ogg"
+    },
+    {
+        "id": 205,
+        "artista": "Joaquim e Manuel",
+        "titulo": "Boate Azul",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/joaquim_e_manuel_boate_azul.ogg"
+    },
+    {
+        "id": 206,
+        "artista": "João Mineiro & Marciano",
+        "titulo": "Ainda Ontem Chorei De Saudade",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/joão_mineiro_marciano_ainda_ontem_chorei_de_saudade.ogg"
+    },
+    {
+        "id": 207,
+        "artista": "Trio Parada Dura",
+        "titulo": "As Andorinhas",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/trio_parada_dura_as_andorinhas.ogg"
+    },
+    {
+        "id": 208,
+        "artista": "Trio Parada Dura",
+        "titulo": "Telefone Mudo",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/trio_parada_dura_telefone_mudo.ogg"
+    },
+    {
+        "id": 209,
+        "artista": "Leandro & Leonardo",
+        "titulo": "Sublime renuncia",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/leandro_leonardo_sublime_renuncia.ogg"
+    },
+    {
+        "id": 210,
+        "artista": "Milionário & José Rico",
+        "titulo": "Sessenta dias apaixonado",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/milionário_josé_rico_sessenta_dias_apaixonado.ogg"
+    },
+    {
+        "id": 211,
+        "artista": "Sérgio Reis",
+        "titulo": "Rio de Lágrimas",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/sérgio_reis_rio_de_lágrimas.ogg"
+    },
+    {
+        "id": 212,
+        "artista": "Roberta Miranda",
+        "titulo": "Majestade O Sabiá",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/roberta_miranda_majestade_o_sabiá.ogg"
+    },
+    {
+        "id": 213,
+        "artista": "Bruno & Marrone",
+        "titulo": "Esqueci",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/bruno_marrone_esqueci.ogg"
+    },
+    {
+        "id": 214,
+        "artista": "Chitãozinho & Xororó",
+        "titulo": "FIO DE CABELO",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/chitãozinho_xororó_fio_de_cabelo.ogg"
+    },
+    {
+        "id": 215,
+        "artista": "Zezé Di Camargo & Luciano",
+        "titulo": "Você Vai Ver",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/zezé_di_camargo_luciano_você_vai_ver.ogg"
+    },
+    {
+        "id": 216,
+        "artista": "Zezé Di Camargo & Luciano",
+        "titulo": "É o Amor",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/zezé_di_camargo_luciano_é_o_amor.ogg"
+    },
+    {
+        "id": 217,
+        "artista": "Matogrosso & Mathias",
+        "titulo": "Tentei Te Esquecer",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/matogrosso_mathias_tentei_te_esquecer.ogg"
+    },
+    {
+        "id": 218,
+        "artista": "Leandro & Leonardo",
+        "titulo": "Pense em mim",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/leandro_leonardo_pense_em_mim.ogg"
+    },
+    {
+        "id": 219,
+        "artista": "João Paulo & Daniel",
+        "titulo": "Minha estrela perdida",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/joão_paulo_daniel_minha_estrela_perdida.ogg"
+    },
+    {
+        "id": 220,
+        "artista": "Chitãozinho & Xororó",
+        "titulo": "No Rancho Fundo",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/chitãozinho_xororó_no_rancho_fundo.ogg"
+    },
+    {
+        "id": 221,
+        "artista": "Zezé Di Camargo & Luciano",
+        "titulo": "No Dia em Que Eu Saí de Casa",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/zezé_di_camargo_luciano_no_dia_em_que_eu_saí_de_casa.ogg"
+    },
+    {
+        "id": 222,
+        "artista": "Edson & Hudson",
+        "titulo": "Azul",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/edson_hudson_azul.ogg"
+    },
+    {
+        "id": 223,
+        "artista": "Leandro & Leonardo",
+        "titulo": "Entre tapas e beijos",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/leandro_leonardo_entre_tapas_e_beijos.ogg"
+    },
+    {
+        "id": 224,
+        "artista": "Gino & Geno",
+        "titulo": "Nóis Enverga Mas Não Quebra",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/gino_geno_nóis_enverga_mas_não_quebra.ogg"
+    },
+    {
+        "id": 225,
+        "artista": "Sérgio Reis",
+        "titulo": "Panela Velha",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/sérgio_reis_panela_velha.ogg"
+    },
+    {
+        "id": 226,
+        "artista": "Almir Sater",
+        "titulo": "Cabecinha No Ombro",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/almir_sater_cabecinha_no_ombro.ogg"
+    },
+    {
+        "id": 227,
+        "artista": "Sérgio Reis e Filhos",
+        "titulo": "Romaria",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/sérgio_reis_e_filhos_romaria.ogg"
+    },
+    {
+        "id": 228,
+        "artista": "Gino & Geno",
+        "titulo": "Ela Chorou De Amor",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/gino_geno_ela_chorou_de_amor.ogg"
+    },
+    {
+        "id": 229,
+        "artista": "Zezé Di Camargo & Luciano",
+        "titulo": "Pão de Mel",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/zezé_di_camargo_luciano_pão_de_mel.ogg"
+    },
+    {
+        "id": 230,
+        "artista": "Zezé Di Camargo & Luciano",
+        "titulo": "Faz Mais uma Vez Comigo",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/zezé_di_camargo_luciano_faz_mais_uma_vez_comigo.ogg"
+    },
+    {
+        "id": 231,
+        "artista": "Chitãozinho & Xororó",
+        "titulo": "Falando Às Paredes",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/chitãozinho_xororó_falando_às_paredes.ogg"
+    },
+    {
+        "id": 232,
+        "artista": "Milionário & José Rico",
+        "titulo": "Decida",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/milionário_josé_rico_decida.ogg"
+    },
+    {
+        "id": 233,
+        "artista": "Trio Parada Dura",
+        "titulo": "Se For Passar Em Goiânia",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/trio_parada_dura_se_for_passar_em_goiânia.ogg"
+    },
+    {
+        "id": 234,
+        "artista": "Teodoro & Sampaio",
+        "titulo": "Vestido De Seda",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/teodoro_sampaio_vestido_de_seda.ogg"
+    },
+    {
+        "id": 235,
+        "artista": "Milionário & José Rico",
+        "titulo": "Vontade Dividida",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/milionário_josé_rico_vontade_dividida.ogg"
+    },
+    {
+        "id": 236,
+        "artista": "Daniel",
+        "titulo": "Caminheiro",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/daniel_caminheiro.ogg"
+    },
+    {
+        "id": 237,
+        "artista": "Fafá de Belém",
+        "titulo": "Nuvem de Lágrimas",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/fafá_de_belém_nuvem_de_lágrimas.ogg"
+    },
+    {
+        "id": 238,
+        "artista": "Daniel",
+        "titulo": "O Menino da Porteira",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/daniel_o_menino_da_porteira.ogg"
+    },
+    {
+        "id": 239,
+        "artista": "Belmonte & Amaraí",
+        "titulo": "Saudade Da Minha Terra",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/belmonte_amaraí_saudade_da_minha_terra.ogg"
+    },
+    {
+        "id": 240,
+        "artista": "Lourenco & Lourival",
+        "titulo": "Franguinho na Panela",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/lourenco_lourival_franguinho_na_panela.ogg"
+    },
+    {
+        "id": 241,
+        "artista": "Lucas Reis & Thácio",
+        "titulo": "Minas Gerais",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/lucas_reis_thácio_minas_gerais.ogg"
+    },
+    {
+        "id": 242,
+        "artista": "Gino & Geno",
+        "titulo": "Apaixonado por Você",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/gino_geno_apaixonado_por_você.ogg"
+    },
+    {
+        "id": 243,
+        "artista": "Milionário & José Rico",
+        "titulo": "Agenda rabiscada",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/milionário_josé_rico_agenda_rabiscada.ogg"
+    },
+    {
+        "id": 244,
+        "artista": "Gino & Geno",
+        "titulo": "Vou Beber Veneno",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/gino_geno_vou_beber_veneno.ogg"
+    },
+    {
+        "id": 245,
+        "artista": "Milionário & José Rico",
+        "titulo": "Vá pro inferno com seu amor",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/milionário_josé_rico_vá_pro_inferno_com_seu_amor.ogg"
+    },
+    {
+        "id": 246,
+        "artista": "Gino & Geno",
+        "titulo": "Acidente De Amor",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/gino_geno_acidente_de_amor.ogg"
+    },
+    {
+        "id": 247,
+        "artista": "Sérgio Reis",
+        "titulo": "Chalana",
+        "categoria": "BR",
+        "url_audio": "https://pub-92ba2277d63847f2b59e32f6210e0003.r2.dev/sérgio_reis_chalana.ogg"
+    }
+]
