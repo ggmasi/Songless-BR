@@ -11,12 +11,20 @@ export default function Home() {
   const [tentativas, setTentativas] = useState<Guess[]>([]);
   const [statusJogo, setStatusJogo] = useState<"jogando" | "venceu" | "perdeu">("jogando");
   
-
-
-  useEffect(() => {
+  const sortearMusica = () => {
     const indiceAleatorio = Math.floor(Math.random()*musicas.length);
     setMusicaTeste(musicas[indiceAleatorio]);
+  }
+
+  useEffect(() => {
+    sortearMusica();
   }, []);
+
+  const jogarNovamente = () => {
+    setTentativas([]);
+    setStatusJogo("jogando");
+    sortearMusica();
+  }
 
   if (!musicaTeste) {
     return (
@@ -31,8 +39,16 @@ export default function Home() {
     if(statusJogo != "jogando") return;
 
     const acertou = musicaEscolhida.id === musicaTeste.id;
+    const acertouArtista = musicaEscolhida.artista === musicaTeste.artista;
+    let statusDaTentiva: Guess["status"] = "incorrect"; 
+    if(acertou){
+      statusDaTentiva = "correct";
+    }else if(acertouArtista){
+      statusDaTentiva = "partial";
+    }
+
     const novaTentativa: Guess = {
-      status: acertou ? "correct" : "incorrect",
+      status: statusDaTentiva,
       text: `${musicaEscolhida.artista} - ${musicaEscolhida.titulo}`,
     };
 
@@ -60,6 +76,8 @@ export default function Home() {
   const rodadaAtual = tentativas.length;
   const linkYoutube = `https://www.youtube.com/results?search_query=${encodeURIComponent(musicaTeste.artista + " " + nomeDaFaixaTeste)}`;
 
+  const isUltimaTentativa = rodadaAtual === 5;
+
   return (
     <main className="min-h-screen bg-gray-900 text-white flex flex-col items-center p-8 pt-20">
       <h1 className="text-4xl font-bold mb-2">Songless BR</h1>
@@ -72,10 +90,14 @@ export default function Home() {
       
       <GuessGrid guesses={tentativas}/>
       {statusJogo === "jogando" && (
-        <div className="w-full max-w-md flex gap-2 mt-4">
-          <SearchBar onGuess={lidarComPalpite}/>
-          <button onClick={pularTentiva} className="px-6 py-4 bg-gray-700 hover:bg-gray-600 font-bold rounded-lg transition-colors border border-gray-600">
-            Pular
+        <div className="w-full max-w-md flex items-stretch gap-2 mt-4">
+          <SearchBar onGuess={lidarComPalpite} palpitesFeitos={tentativas.filter(t => t.status !== "skipped").map(t => t.text)}/>
+          <button onClick={pularTentiva} className={`px-6 py-4 font-bold rounded-lg transition-all border flex-shrink-0 
+            ${
+                isUltimaTentativa ? "bg-red-900/30 text-red-400 border-red-900/50 hover:bg-red-800/50 hover:text-red-200"
+                : "bg-gray-800 text-gray-400 border-gray-700 hover:bg-gray-700 hover:text-white"
+            }`}>
+            {isUltimaTentativa ? "Desistir" : "Pular"}
           </button>
         </div>
       )} 
@@ -103,6 +125,11 @@ export default function Home() {
             <div className="w-full mb-6">
               <AudioPlayer url={musicaTeste.url_audio} attempt={6} isGameOver={true}/>
             </div>
+
+            <button onClick={jogarNovamente} className="w-full py-4 mb-3 bg-gtay-700 hover:bg-gray-600 text-white font-bold rounded-lg transition-colors border border-gray-600">
+              Jogar Novamente
+            </button>
+
           </div>
         </div>
         

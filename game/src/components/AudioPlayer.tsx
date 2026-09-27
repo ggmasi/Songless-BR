@@ -14,9 +14,9 @@ export default function AudioPlayer({ url, attempt, isGameOver = false }: AudioP
     const [progresso, setProgresso] = useState(0);
     const audioRef = useRef<HTMLAudioElement | null>(null);
 
-    const temposLiberados = [0.1, 0.5, 2, 4, 8, 15];
+    const temposLiberados = [0.5, 1, 2, 4, 8, 16];
     const tempoMax = isGameOver ? 30 : temposLiberados[Math.min(attempt, 5)];
-    const tempoTotal = isGameOver ? 30 : 15;
+    const tempoTotal = isGameOver ? 30 : 16;
 
     useEffect(() => {
         if(audioRef.current){

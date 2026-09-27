@@ -105,11 +105,7 @@ def extrair_musicas_spotify(playlist_url):
 
 # Exemplo: URL de uma playlist gigantesca de músicas brasileiras
 minhas_playlists = {
-        "BR":["https://open.spotify.com/playlist/1NMXgwI87dFGPgvbNy3ie8",
-            "https://open.spotify.com/playlist/1GFjF53jNeU5GDKJT3ETPg",
-            "https://open.spotify.com/playlist/3st21eKo4Fsjc7roB1X1Xz",
-            "https://open.spotify.com/playlist/3olPaeXTuGx6aziVOiqHa8",
-            "https://open.spotify.com/playlist/2tLpew1AMhmdvYMKYI5HsE"],
+        "BR":["https://open.spotify.com/playlist/1NMXgwI87dFGPgvbNy3ie8?si=e4847ba4a2574ca7"],
 
         "INT":[]
 
@@ -128,7 +124,7 @@ if __name__ == "__main__":
             next(leitor_csv, None)
             for linha in leitor_csv:
                 if len(linha) >= 2:
-                    musica_identificador = f"{linha[0] - linha[1]}"
+                    musica_identificador = f"{linha[0]} - {linha[1]}"
                     musicas_existentes.add(musica_identificador)
 
     print(f"Catálogo atual tem {len(musicas_existentes)} músicas únicas.")

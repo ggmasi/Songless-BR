@@ -45,14 +45,17 @@ if __name__ == "__main__":
                 bd.append(musica_obj)
                 id_contador +=1
 
+
+    pasta_raiz = os.path.dirname(pasta_script)
+    pasta_destino_json = os.path.join(pasta_raiz, "game", "src", "data")
+    os.makedirs(pasta_destino_json, exist_ok=True)
+    caminho_json = os.path.join(pasta_destino_json, "bd_musicas.json")
+
+
     with open(caminho_json, 'w', encoding='utf-8') as arquivo_json:
         json.dump(bd, arquivo_json, ensure_ascii=False, indent=4)
 
 
-    pasta_raiz = os.path.dirname(pasta_script)
-    pasta_destino_json = os.path.join(pasta_raiz, "jogo", "src", "data")
-    os.makedirs(pasta_destino_json, exist_ok=True)
-    caminho_json = os.path.join(pasta_destino_json, "bd_musicas.json")
 
     print(f"Sucesso! Banco de dados gerado com {len(bd)} músicas.")
     print(f"Arquivo salvo em: {caminho_json}")

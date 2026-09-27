@@ -1,4 +1,6 @@
-export type GuessStatus = "empty" | "skipped" | "incorrect" | "correct";
+import { text } from "stream/consumers";
+
+export type GuessStatus = "empty" | "skipped" | "incorrect" | "correct" | "partial";
 
 export interface Guess{
     status: GuessStatus;
@@ -37,13 +39,17 @@ export default function GuessGrid({guesses} : GuessGridProps){
                     bgColor = "bg-green-900/30";
                     borderColor = "border-green-500";
                     textColor = "text-green-400 font-bold";
+                }else if (guess.status === "partial"){
+                    bgColor = "bg-yellow-900/30";
+                    borderColor = "border-yellow-200";
+                    textColor = "text-yellow-200";
                 }
 
                 return(
                     <div key={index} className={`w-full h-12 flex items-center px-4 border ${bgColor} ${borderColor} ${textColor} rounded-md transition-colors`}>
                         {guess.status === "skipped" && "PULOU"}
                         {guess.status === "empty" && ""}
-                        {(guess.status === "incorrect" || guess.status === "correct") && guess.text}
+                        {(guess.status === "incorrect" || guess.status === "correct" || guess.status === "partial") && guess.text}
                     </div> 
                 );
             })}
