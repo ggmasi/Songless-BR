@@ -10,30 +10,88 @@ export default function Home() {
   const [musicaTeste, setMusicaTeste] = useState<any>(null);
   const [tentativas, setTentativas] = useState<Guess[]>([]);
   const [statusJogo, setStatusJogo] = useState<"jogando" | "venceu" | "perdeu">("jogando");
-  
-  const sortearMusica = () => {
-    const indiceAleatorio = Math.floor(Math.random()*musicas.length);
+  const [modoAtual, setModoAtual] = useState<"diario" | "infinito">("diario");
+  const [carregando, setCarregando] = useState(true);
+
+  const getDataDeHoje = () => new Date().toDateString();
+
+  const carregarModoDiario = () => {
+    const hoje = new Date();
+    const dataAtual = new Date(hoje.getFullYear(), hoje.getMonth(), hoje.getDate()).getTime();
+    const dataBase = new Date(2024, 0, 1).getTime();
+    const diasPassados = Math.floor((dataAtual-dataBase)/(1000*60*60*24));
+
+    const indiceDoDia = diasPassados%musicas.length;
+
+    setMusicaTeste(musicas[indiceDoDia]);
+    setModoAtual("diario");
+
+    const save = localStorage.getItem("songless_save_diario");
+    if(save){
+      const dadosSalvos = JSON.parse(save);
+      if(dadosSalvos.data === getDataDeHoje()){
+        setTentativas(dadosSalvos.tentativas);
+        setStatusJogo(dadosSalvos.status);
+        return;
+      }
+    }
+
+    setTentativas([]);
+    setStatusJogo("jogando");
+  }
+
+  const carregarModoInfinito = () => {
+    const indiceAleatorio = Math.floor(Math.random() * musicas.length);
     setMusicaTeste(musicas[indiceAleatorio]);
+    setModoAtual("infinito");
+    setTentativas([]);
+    setStatusJogo("jogando");
   }
 
   useEffect(() => {
-    sortearMusica();
-  }, []);
+    carregarModoDiario();
+    setCarregando(false);
+  }, [])
 
-  const jogarNovamente = () => {
-    setTentativas([]);
-    setStatusJogo("jogando");
-    sortearMusica();
-  }
+  const salvarProgressoDiario = (novasTentativas: Guess[], novoStatus: string) =>{
+    if(modoAtual === "diario"){
+      localStorage.setItem("songless_save_diario", JSON.stringify({
+        data: getDataDeHoje(),
+        tentativas: novasTentativas,
+        status: novoStatus
+      }));
+    }
+  };
 
-  if (!musicaTeste) {
-    return (
-      <main className="min-h-screen bg-gray-900 text-white flex items-center justify-center">
-        <p className="text-xl font-bold animate-pulse text-green-400">Sorteando música...</p>
-      </main>
-    );
-  }
-  const nomeDaFaixaTeste = musicaTeste.titulo;
+  // const sortearMusica = () => {
+  //   const indiceAleatorio = Math.floor(Math.random()*musicas.length);
+  //   setMusicaTeste(musicas[indiceAleatorio]);
+  //   setIsModoDiario(false);
+  // }
+
+  // const jogarModoInfinito = () => {
+  //   setTentativas([]);
+  //   setStatusJogo("jogando");
+  //   sortearMusica();
+  // }
+
+  // useEffect(() => {
+  //   carregarMusicaDiaria();
+  // }, []);
+  
+  // if (!musicaTeste) {
+  //   return (
+  //     <main className="min-h-screen bg-gray-900 text-white flex items-center justify-center">
+  //       <p className="text-xl font-bold animate-pulse text-green-400">Sorteando música...</p>
+  //     </main>
+  //   );
+  // }
+
+  // const jogarNovamente = () => {
+  //   setTentativas([]);
+  //   setStatusJogo("jogando");
+  //   sortearMusica();
+  // }
 
   const lidarComPalpite = (musicaEscolhida: any) => {
     if(statusJogo != "jogando") return;
@@ -53,25 +111,44 @@ export default function Home() {
     };
 
     const novasTentativas = [...tentativas, novaTentativa];
-    setTentativas(novasTentativas);
+    let novoStatus: "jogando" | "venceu" | "perdeu" = statusJogo;
 
     if(acertou){
-      setStatusJogo("venceu");
+      novoStatus = "venceu";
     }else if(novasTentativas.length >= 6){
-      setStatusJogo("perdeu");
+      novoStatus = "perdeu";
     }
+
+    setTentativas(novasTentativas);
+    setStatusJogo(novoStatus);
+
+    salvarProgressoDiario(novasTentativas, novoStatus);
+    
   };
 
   const pularTentiva = () =>{
     if(statusJogo !== "jogando") return;
 
     const novasTentativas = [... tentativas, {status: "skipped", text: ""} as Guess];
-    setTentativas(novasTentativas);
+    const novoStatus = novasTentativas.length >= 6 ? "perdeu" : "jogando";
 
-    if(novasTentativas.length >= 6){
-      setStatusJogo("perdeu");
-    }
+    setTentativas(novasTentativas);
+    setStatusJogo(novoStatus);
+    
+    salvarProgressoDiario(novasTentativas, novoStatus);
   };
+  
+  if (carregando || !musicaTeste) {
+    return (
+      <main className="min-h-screen bg-gray-900 text-white flex items-center justify-center">
+        <p className="text-xl font-bold animate-pulse text-green-400">Carregando...</p>
+      </main>
+    );
+  }
+
+
+  const nomeDaFaixaTeste = musicaTeste.titulo;
+
 
   const rodadaAtual = tentativas.length;
   const linkYoutube = `https://www.youtube.com/results?search_query=${encodeURIComponent(musicaTeste.artista + " " + nomeDaFaixaTeste)}`;
@@ -80,9 +157,31 @@ export default function Home() {
 
   return (
     <main className="min-h-screen bg-gray-900 text-white flex flex-col items-center p-8 pt-20">
-      <h1 className="text-4xl font-bold mb-2">Songless BR</h1>
-      <p className="text-gray-400 text-center max-w-md">Adivinhe a música de hoje!</p>
       
+      <h1 className="text-4xl font-bold tracking-tight mb-4">Songless BR</h1>
+      <div className="flex bg-gray-800 rounded-lg p-1 mb-6 border border-gray-700 w-full max-w-md shadow-lg">
+        <button
+          onClick={carregarModoDiario}
+          className={`flex-1 py-2 px-4 rounded-md font-bold transition-all ${
+            modoAtual === "diario" 
+              ? "bg-gray-700 text-green-400 shadow-sm" 
+              : "text-gray-400 hover:text-gray-200"
+          }`}
+        >
+          🎶 Diário
+        </button>
+        <button
+          onClick={carregarModoInfinito}
+          className={`flex-1 py-2 px-4 rounded-md font-bold transition-all ${
+            modoAtual === "infinito" 
+              ? "bg-gray-700 text-green-400 shadow-sm" 
+              : "text-gray-400 hover:text-gray-200"
+          }`}
+        >
+          ♾️ Infinito
+        </button>
+      </div>
+
       {statusJogo === "jogando" && (
         <AudioPlayer url={musicaTeste.url_audio} attempt={rodadaAtual} isGameOver={false}/>
       )}
@@ -125,10 +224,16 @@ export default function Home() {
             <div className="w-full mb-6">
               <AudioPlayer url={musicaTeste.url_audio} attempt={6} isGameOver={true}/>
             </div>
-
-            <button onClick={jogarNovamente} className="w-full py-4 mb-3 bg-gtay-700 hover:bg-gray-600 text-white font-bold rounded-lg transition-colors border border-gray-600">
-              Jogar Novamente
-            </button>
+            {modoAtual === "infinito" ? (
+              <button onClick={carregarModoInfinito} className="w-full py-4 mb-3 bg-gtay-700 hover:bg-gray-600 text-white font-bold rounded-lg transition-colors border border-gray-600">
+                Jogar Novamente
+              </button>
+            ): (
+              <button onClick={carregarModoInfinito} className="w-full py-4 mb-3 bg-gtay-700 hover:bg-gray-600 text-white font-bold rounded-lg transition-colors border border-gray-600">
+                Jogar Modo Infinito
+              </button>
+            )}
+            
 
           </div>
         </div>
